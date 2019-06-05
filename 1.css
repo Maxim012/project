@@ -1,0 +1,24 @@
+.top{
+	height: 50px;;
+	padding-top: 5px;
+}
+.bottom{
+	height: 1000px;
+	background-color: white;
+}
+.color{
+	background-color: white;
+}
+.red{
+	background-color: white;
+}
+.pink{
+	background-color: white;
+}
+button{
+	background-color: red;
+	color:white;
+	border:none;
+	height: 40px;
+	width: 120px;
+}
